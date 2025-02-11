@@ -2,7 +2,7 @@
 title: "Learning by Doing: Problmes I met with Markdown"
 date: 2024-07-05T15:56:58+08:00
 author: "Daoyuan"
-slug:
+slug: learn-by-doing
 draft: false
 toc: false
 ---

@@ -2,7 +2,7 @@
 title: "No Module Named XX Problem"
 date: 2024-11-22T09:51:42+08:00
 author: "武道源"
-slug:
+slug: no-module-named-problem
 draft: false
 toc: false
 ---
