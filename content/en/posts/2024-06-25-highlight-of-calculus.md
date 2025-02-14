@@ -2,7 +2,7 @@
 title: "Highlight of Calculus"
 date: 2024-06-25T11:32:25+08:00
 author: "Daoyuan"
-slug:
+slug: highlight-calc
 draft: false
 toc: false
 ---

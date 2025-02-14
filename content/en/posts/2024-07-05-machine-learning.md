@@ -2,7 +2,7 @@
 title: "Machine Learning for beginners"
 date: 2024-07-05T15:44:20+08:00
 author: "Daoyuan"
-slug:
+slug: ml
 draft: false
 toc: false
 ---
