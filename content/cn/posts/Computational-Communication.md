@@ -1,0 +1,21 @@
+---
+title: "计算传播学入门"
+date: 2024-06-27T14:15:18+08:00
+author: "武道源"
+slug: css
+draft: false
+toc: false
+---
+
+知道“计算传播”始于2023年了解香港学校，读教授们的论文。港校做CSS的老师有港大的[King-wa Fu](https://sites.google.com/site/fukingwa/home)，中大的[Liang Hai](https://drhailiang.com/)以及大家熟知的[Zhu Jianhua](https://scholars.cityu.edu.hk/en/persons/jian-hua-jonathan-zhu(680bbd78-7354-4005-999c-2bc4be7752e3).html)。中大的[Computational Social Science](https://pg.com.cuhk.edu.hk/phdcss/)是单独申请的项目。
+
+计算传播学，顾名思义，即用计算的方法研究传播学。浏览[MIT Media Lab](https://www.media.mit.edu/)，了解到这里是计算社科的发源地，一所以建模解决问题著称的顶级学校。创始人[Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)被福布斯评为[7位最牛数据科学家](https://www.forbes.com/pictures/lmm45emkh/6-alex-sandy-pentland-professor-mit/)之一。
+[他和学生于2009年发表的一篇文章](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/)列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。
+> 注意ABC(Artifical Bee Colony)算法区别于*bee algorithm*，尽管两者都用于解决优化问题。
+同年，Ginsberg等人采用谷歌的搜索数据分析了人们检索与流感相关的词语的时间序列，通过机器学习的方式预测人类大规模流感的爆发，可以使人们提前两周预知流感的爆发；Bollen等采用推特的数据进行情感分析，发现“冷静”这一种情绪可以较好地预测股票的涨落。 
+
+内地在计算传播领域做得比较好的有南京大学的[王成军](https://chengjun.github.io/zh/)，他出版的[《计算传播学导论》](https://chengjun.github.io/mybook/index.html)在Github上可以找到一份早期版本，看完如果有收获，可以考虑买一本教材以示支持。北师大的[许小可](https://sjc.bnu.edu.cn/sztd/jsdw/js/ec4cdaf05ec6421eb300889de885d78e.html)，读他们的论文是最快速入门这一领域的方法。
+
+计算传播在传媒业界的应用包括数据新闻、计算广告和媒体推荐系统。数据新闻已在业界风靡多年，十年前纽约时报的数据新闻[《雪崩》](https://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek)集成了文字、音频、视频、动漫、数字化模型（DEM）、卫星模型联动等技术手段引起一时轰动，成功斩获普利策奖，而我的母校举办的(数据新闻大赛)[http://www.cdjcow.com/]也已经到了第九届；计算广告是当前搜索引擎、社交媒体精准投放广告，实现数据变现的重要渠道；媒体推荐系统则建立了新的信息把关模式，使个性化信息获取成为可能，例如Netflix通过订阅用户的行为收集制作剧集，以及国内的字节系产品。
+
+随着互联网上数据量的指数级增长，机器学习、自然语言处理等数据挖掘方法，用算法去优化模型效率（要求数学、统计学知识），都是我们进入这个领域应该去学习的内容。
