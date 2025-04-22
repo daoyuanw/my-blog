@@ -6,35 +6,21 @@
     <description>Recent content in English Posts on Hugo-HT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2024 18:19:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 15:44:20 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024 08 27 Jupternotebook</title>
-      <link>http://localhost:1313/en/2024/08/27/2024-08-27-jupternotebook/</link>
-      <pubDate>Tue, 27 Aug 2024 18:19:26 +0800</pubDate>
-      <guid>http://localhost:1313/en/2024/08/27/2024-08-27-jupternotebook/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Learning From Markdown</title>
-      <link>http://localhost:1313/en/2024/07/05/learning-from-markdown/</link>
-      <pubDate>Fri, 05 Jul 2024 15:56:58 +0800</pubDate>
-      <guid>http://localhost:1313/en/2024/07/05/learning-from-markdown/</guid>
-      <description>When I was creating my own website, I learned my very first programming language: Markdown&#xD;.&#xA;The link above is an official guidance for markdown, though I haven&amp;rsquo;t read it entirely because I only focused on the questions I &amp;rsquo;ve met or I would have probably. In fact, most of my knowledge learned from the blog of Hongtao Hao&#xD;who was a student majored in journalism and communication then trasfered to computation science.</description>
-    </item>
-    <item>
       <title>Machine Learning for beginners</title>
-      <link>http://localhost:1313/en/2024/07/05/machine-learning-for-beginners/</link>
+      <link>http://localhost:1313/en/2024/07/05/ml/</link>
       <pubDate>Fri, 05 Jul 2024 15:44:20 +0800</pubDate>
-      <guid>http://localhost:1313/en/2024/07/05/machine-learning-for-beginners/</guid>
+      <guid>http://localhost:1313/en/2024/07/05/ml/</guid>
       <description>Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.1&#xA;The main types of machine learning are supervised learning and unsupervised learning.&#xA;Supervised Learning Supervised Learning learns from being given “right answers” has been used most widely in real-world applications including spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection. The two major algorithms in supervised learning are regression and classification.</description>
     </item>
     <item>
       <title>Highlight of Calculus</title>
-      <link>http://localhost:1313/en/2024/06/25/highlight-of-calculus/</link>
+      <link>http://localhost:1313/en/2024/06/25/highlight-calc/</link>
       <pubDate>Tue, 25 Jun 2024 11:32:25 +0800</pubDate>
-      <guid>http://localhost:1313/en/2024/06/25/highlight-of-calculus/</guid>
-      <description>Highlight of Calculus These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang.&#xA;Overview Calculus deals with the relationships between functions and encompasses both integration and differential calculus. These two types of calculus operate in opposite directions.&#xA;Differential: Suppose we know the distance and time. To determine the speed, we can use differential calculus. Intergration: Integration is in the opposite direction. An example of integration is finding the distance function (function 2) when the speed (function 1) increases at a constant rate.</description>
+      <guid>http://localhost:1313/en/2024/06/25/highlight-calc/</guid>
+      <description>Highlight of Calculus These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang. I wrote it mainly out of the motivation to active recall the knowledge I&amp;rsquo;ve learnt. If it could also help someone to understand the calculus, that would be much greater! Faymen said the expert could teach the conception so simple that even a child can understand without problmes. If you find there are something unclear, confusing or mistakes.</description>
     </item>
   </channel>
 </rss>

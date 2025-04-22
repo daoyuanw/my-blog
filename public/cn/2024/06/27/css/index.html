@@ -1,0 +1,194 @@
+<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><a name="top"></a>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hugo-HT</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+            <link rel="icon" href="http://localhost:1313/media/hugo-logo.png">
+
+
+
+
+
+  </head>
+  
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav" >
+      <a href="/" class="nav-logo">
+        <img src="/media/hugo-logo.png"
+         width="50"
+         height="50"
+         alt="Hugo-ht">
+      </a>
+
+      <ul class="nav-links" >
+        
+        
+           <li><a href="/cn/about/">关于</a></li>
+       
+           <li><a href="/cn/posts/">日志</a></li>
+       
+           <li><a href="/">English</a></li>
+       
+       
+      </ul>
+</nav>
+      </header>
+
+<main class = "content" role="main">
+<div style="text-align: center">
+
+<h1>计算传播学入门</h1>
+
+<p>武道源 
+ / 2024-06-27 </p>
+
+<hr/>
+</div>
+
+<span class="article-toolbar">
+  
+  
+  
+  
+  
+  
+  
+  <a href='https://github.com/dawnlim1/my-space/edit/main/content/cn%5cposts%5cComputational-Communication.md'style="font-size: 24px; color: black;" target="_blank"><i class="fa fa-edit" aria-hidden="true" title="编辑本页"></i>
+  </a>
+  
+  
+  
+</span>
+
+
+
+<div class="body-text list-text">
+<p>知道“计算传播”始于2023年了解香港学校，读教授们的论文。港校做CSS的老师有港大的<a href="https://sites.google.com/site/fukingwa/home" target="_blank" rel="noreferrer noopener">King-wa Fu</a>
+
+，中大的<a href="https://drhailiang.com/" target="_blank" rel="noreferrer noopener">Liang Hai</a>
+
+以及大家熟知的<a href="https://scholars.cityu.edu.hk/en/persons/jian-hua-jonathan-zhu%28680bbd78-7354-4005-999c-2bc4be7752e3%29.html" target="_blank" rel="noreferrer noopener">Zhu Jianhua</a>
+
+。中大的<a href="https://pg.com.cuhk.edu.hk/phdcss/" target="_blank" rel="noreferrer noopener">Computational Social Science</a>
+
+是单独申请的项目。</p>
+<p>计算传播学，顾名思义，即用计算的方法研究传播学。浏览<a href="https://www.media.mit.edu/" target="_blank" rel="noreferrer noopener">MIT Media Lab</a>
+
+，了解到这里是计算社科的发源地，一所以建模解决问题著称的顶级学校。创始人<a href="https://www.media.mit.edu/people/sandy/overview/" target="_blank" rel="noreferrer noopener">Alex &lsquo;Sandy&rsquo; Pentland</a>
+
+被福布斯评为<a href="https://www.forbes.com/pictures/lmm45emkh/6-alex-sandy-pentland-professor-mit/" target="_blank" rel="noreferrer noopener">7位最牛数据科学家</a>
+
+之一。
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/" target="_blank" rel="noreferrer noopener">他和学生于2009年发表的一篇文章</a>
+
+列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。</p>
+<blockquote>
+<p>注意ABC(Artifical Bee Colony)算法区别于<em>bee algorithm</em>，尽管两者都用于解决优化问题。
+同年，Ginsberg等人采用谷歌的搜索数据分析了人们检索与流感相关的词语的时间序列，通过机器学习的方式预测人类大规模流感的爆发，可以使人们提前两周预知流感的爆发；Bollen等采用推特的数据进行情感分析，发现“冷静”这一种情绪可以较好地预测股票的涨落。</p>
+</blockquote>
+<p>内地在计算传播领域做得比较好的有南京大学的<a href="https://chengjun.github.io/zh/" target="_blank" rel="noreferrer noopener">王成军</a>
+
+，他出版的<a href="https://chengjun.github.io/mybook/index.html" target="_blank" rel="noreferrer noopener">《计算传播学导论》</a>
+
+在Github上可以找到一份早期版本，看完如果有收获，可以考虑买一本教材以示支持。北师大的<a href="https://sjc.bnu.edu.cn/sztd/jsdw/js/ec4cdaf05ec6421eb300889de885d78e.html" target="_blank" rel="noreferrer noopener">许小可</a>
+
+，读他们的论文是最快速入门这一领域的方法。</p>
+<p>计算传播在传媒业界的应用包括数据新闻、计算广告和媒体推荐系统。数据新闻已在业界风靡多年，十年前纽约时报的数据新闻<a href="https://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek" target="_blank" rel="noreferrer noopener">《雪崩》</a>
+
+集成了文字、音频、视频、动漫、数字化模型（DEM）、卫星模型联动等技术手段引起一时轰动，成功斩获普利策奖，而我的母校举办的(数据新闻大赛)[http://www.cdjcow.com/]也已经到了第九届；计算广告是当前搜索引擎、社交媒体精准投放广告，实现数据变现的重要渠道；媒体推荐系统则建立了新的信息把关模式，使个性化信息获取成为可能，例如Netflix通过订阅用户的行为收集制作剧集，以及国内的字节系产品。</p>
+<p>随着互联网上数据量的指数级增长，机器学习、自然语言处理等数据挖掘方法，用算法去优化模型效率（要求数学、统计学知识），都是我们进入这个领域应该去学习的内容。</p>
+
+
+<p style="color:#777;">最后一次修改于 2024-06-27</p>
+</div>
+<a href="#top"><i class="fa fa-chevron-up" style="font-size: 30px; color: black;"></i></a>
+
+</main>
+
+<footer class="footer">
+  <div class="content">
+
+<script src="https://giscus.app/client.js"
+        data-repo="daoyuanw/my-blog"
+        data-repo-id="R_kgDOMNt48A"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMNt48M4CgWw2"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+</br>
+ 
+</div>
+  <script type="text/javascript" src="/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" src="/js/center-img.js"></script>
+
+
+
+     <ul class="footer-links">
+      
+       
+       
+       
+       <li><a href="/cn/posts/index.xml" type="application/rss+xml" title="RSS feed">
+       订阅 </a>
+       </li>
+       
+       
+       <li>
+       
+       <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">
+       
+        版权
+        <i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i> 
+        </a>
+       </li>
+       
+     </ul>
+     <div class="copyright-text">
+            
+            ©
+            
+            武道源
+            
+            2024
+            
+     </div>
+
+</footer>
+
+
+
+
+

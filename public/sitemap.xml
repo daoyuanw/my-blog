@@ -2,26 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/2024/08/27/2024-08-27-jupternotebook/</loc>
-    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/2024/07/05/learning-from-markdown/</loc>
-    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/2024/07/05/machine-learning-for-beginners/</loc>
     <lastmod>2024-07-05T15:44:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cn/2024/06/27/computational-social-science/</loc>
-    <lastmod>2024-06-27T14:15:18+08:00</lastmod>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2024-07-05T15:44:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-05T15:44:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/2024/07/05/ml/</loc>
+    <lastmod>2024-07-05T15:44:20+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cn/posts/</loc>
     <lastmod>2024-06-27T14:15:18+08:00</lastmod>
@@ -29,10 +20,13 @@
     <loc>http://localhost:1313/cn/</loc>
     <lastmod>2024-06-27T14:15:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cn/2024/06/25/%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E4%B8%8E%E6%96%AD%E8%88%8D%E7%A6%BB/</loc>
+    <loc>http://localhost:1313/cn/2024/06/27/css/</loc>
+    <lastmod>2024-06-27T14:15:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/2024/06/25/info-overload/</loc>
     <lastmod>2024-06-25T11:47:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/2024/06/25/highlight-of-calculus/</loc>
+    <loc>http://localhost:1313/en/2024/06/25/highlight-calc/</loc>
     <lastmod>2024-06-25T11:32:25+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
