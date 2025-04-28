@@ -6,7 +6,7 @@ slug:
 draft: false
 toc: false
 ---
-在第一堂Shell课上，我用Windows自带的Powershell跟着老师敲命令，一敲一个不吱声。为了同步进度，遂决定安装Linux。
+在第一堂Shell课上，我用Windows自带的Powershell跟着老师敲命令，语法差异较大，一敲一个不吱声。为了同步进度，遂决定安装Linux。
 选择这种方法的主要原因是安装方便，适合小白。
 1. 设置> 系统> 开发者选项> 打开开发者选项
 2. 控制面板 > 程序 > 启用或关闭Windows功能 > 勾选“适用于Linux的Windows子系统”
