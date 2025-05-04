@@ -2,7 +2,7 @@
 title: "安装Windows自带的Linux子系统"
 date: 2025-04-23T22:06:04+08:00
 author: "武道源"
-slug:
+slug: Linux
 draft: false
 toc: false
 ---
