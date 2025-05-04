@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>English Posts on Hugo-HT</title>
     <link>http://localhost:1313/en/posts/</link>
     <description>Recent content in English Posts on Hugo-HT</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2024 15:44:20 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,9 @@
       <link>http://localhost:1313/en/2024/07/05/ml/</link>
       <pubDate>Fri, 05 Jul 2024 15:44:20 +0800</pubDate>
       <guid>http://localhost:1313/en/2024/07/05/ml/</guid>
-      <description>Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.1&#xA;The main types of machine learning are supervised learning and unsupervised learning.&#xA;Supervised Learning Supervised Learning learns from being given “right answers” has been used most widely in real-world applications including spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection. The two major algorithms in supervised learning are regression and classification.</description>
+      <description>Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.1
+The main types of machine learning are supervised learning and unsupervised learning.
+Supervised Learning Supervised Learning learns from being given “right answers” has been used most widely in real-world applications including spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection. The two major algorithms in supervised learning are regression and classification.</description>
     </item>
     <item>
       <title>Highlight of Calculus</title>

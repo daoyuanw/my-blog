@@ -1,5 +1,3 @@
-User-agent: CuteStat
+User-agent: *
 Disallow: /
-
-User-agent: ia_archiver
-Disallow: /
+Sitemap: http://localhost:1313/sitemap.xml
