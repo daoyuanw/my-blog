@@ -6,10 +6,17 @@
     <description>Recent content in 中文博客 on Hugo-HT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Apr 2025 22:56:31 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 22:06:04 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>有学历，没文化</title>
+      <title>安装Windows自带的Linux子系统</title>
+      <link>http://localhost:1313/cn/2025/04/23/%E5%AE%89%E8%A3%85windows%E8%87%AA%E5%B8%A6%E7%9A%84linux%E5%AD%90%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Wed, 23 Apr 2025 22:06:04 +0800</pubDate>
+      <guid>http://localhost:1313/cn/2025/04/23/%E5%AE%89%E8%A3%85windows%E8%87%AA%E5%B8%A6%E7%9A%84linux%E5%AD%90%E7%B3%BB%E7%BB%9F/</guid>
+      <description>在第一堂Shell课上，我用Windows自带的Powershell跟着老师敲命令，语法差异较大，一敲一个不吱声。为了同步进度，遂决定安装Linux。 选择这种方法的主要原因是安装方便，适合小白。&#xA;设置&amp;gt; 系统&amp;gt; 开发者选项&amp;gt; 打开开发者选项 控制面板 &amp;gt; 程序 &amp;gt; 启用或关闭Windows功能 &amp;gt; 勾选“适用于Linux的Windows子系统” Microsoft Store &amp;gt; 搜索“Ubuntu” &amp;gt; 下载&amp;gt; 安装 如果你的Microsoft Store无法联网，可能是由于梯子造成的。试试这样操作：Win + R &amp;gt; 输入“control.exe” &amp;gt; 网络和Internet选项 &amp;gt; 连接 &amp;gt; 局域网设置 &amp;gt; 勾选自动检测设置，取消勾选代理服务器 &amp;gt; 确定。&#xA;出现黑盒子后，等待安装&amp;hellip;（2000年过去了） 创建用户，输入用户名和密码，注意用户名不能为大写。 安装完成。 </description>
+    </item>
+    <item>
+      <title>有学历没文化</title>
       <link>http://localhost:1313/cn/2025/04/22/%E6%9C%89%E5%AD%A6%E5%8E%86%E6%B2%A1%E6%96%87%E5%8C%96/</link>
       <pubDate>Tue, 22 Apr 2025 22:56:31 +0800</pubDate>
       <guid>http://localhost:1313/cn/2025/04/22/%E6%9C%89%E5%AD%A6%E5%8E%86%E6%B2%A1%E6%96%87%E5%8C%96/</guid>
