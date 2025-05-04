@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on Hugo-HT</title>
+    <title>Home on DaoyuanWu</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Hugo-HT</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <description>Recent content in Home on DaoyuanWu</description>
+    <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Apr 2025 22:06:04 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,64 +13,81 @@
       <link>http://localhost:1313/cn/2025/04/23/linux/</link>
       <pubDate>Wed, 23 Apr 2025 22:06:04 +0800</pubDate>
       <guid>http://localhost:1313/cn/2025/04/23/linux/</guid>
-      <description>在第一堂Shell课上，我用Windows自带的Powershell跟着老师敲命令，语法差异较大，一敲一个不吱声。为了同步进度，遂决定安装Linux。 选择这种方法的主要原因是安装方便，适合小白。
-设置&amp;gt; 系统&amp;gt; 开发者选项&amp;gt; 打开开发者选项 控制面板 &amp;gt; 程序 &amp;gt; 启用或关闭Windows功能 &amp;gt; 勾选“适用于Linux的Windows子系统” Microsoft Store &amp;gt; 搜索“Ubuntu” &amp;gt; 下载&amp;gt; 安装 如果你的Microsoft Store无法联网，可能是由于梯子造成的。试试这样操作：Win + R &amp;gt; 输入“control.exe” &amp;gt; 网络和Internet选项 &amp;gt; 连接 &amp;gt; 局域网设置 &amp;gt; 勾选自动检测设置，取消勾选代理服务器 &amp;gt; 确定。
-出现黑盒子后，等待安装&amp;hellip;（2000年过去了） 创建用户，输入用户名和密码，注意用户名不能为大写。 安装完成。 </description>
+      <description>&lt;p&gt;在第一堂Shell课上，我用Windows自带的Powershell跟着老师敲命令，语法差异较大，一敲一个不吱声。为了同步进度，遂决定安装Linux。
+选择这种方法的主要原因是安装方便，适合小白。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;设置&amp;gt; 系统&amp;gt; 开发者选项&amp;gt; 打开开发者选项&lt;/li&gt;
+&lt;li&gt;控制面板 &amp;gt; 程序 &amp;gt; 启用或关闭Windows功能 &amp;gt; 勾选“适用于Linux的Windows子系统”&lt;/li&gt;
+&lt;li&gt;Microsoft Store &amp;gt; 搜索“Ubuntu” &amp;gt; 下载&amp;gt; 安装&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果你的Microsoft Store无法联网，可能是由于梯子造成的。试试这样操作：Win + R &amp;gt; 输入“control.exe” &amp;gt; 网络和Internet选项 &amp;gt; 连接 &amp;gt; 局域网设置 &amp;gt; 勾选自动检测设置，取消勾选代理服务器 &amp;gt; 确定。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;出现黑盒子后，等待安装&amp;hellip;（2000年过去了）&lt;/li&gt;
+&lt;li&gt;创建用户，输入用户名和密码，注意用户名不能为大写。&lt;/li&gt;
+&lt;li&gt;安装完成。&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>有学历没文化</title>
       <link>http://localhost:1313/cn/2025/04/22/culture/</link>
       <pubDate>Tue, 22 Apr 2025 22:56:31 +0800</pubDate>
       <guid>http://localhost:1313/cn/2025/04/22/culture/</guid>
-      <description>某天刷到白岩松说有些文科研究生有学历，没文化，找不到工作是正常的。虽然当时我找到了工作（不怎么样），还是对号入座了。
-犹记硕士毕业时，我的阅读量大概不超30本（数据来自豆瓣记录），甚至不及一名当代小学生。其中21本是硕士期间读的，本科四年花在读书上的时间屈指可数，以至于读了哪些书还记得格外清晰（3本）：贾平凹的《带灯》、王安忆的《长恨歌》和《共产党宣言》，均为评论课老师布置的阅读任务，还剩两本未完成，至今在Kindle里躺着。
-四大名著，初高中必读书目，专业课老师推荐书单&amp;hellip;无一例外，在我的成长轨迹里全部缺席。不知是叛逆意识作祟还是从小就有的求异心理，对于要求做的和周围人都做的事我总是不屑一顾。印象里唯一渴望拥有的书是《十万个为什么》，小学时因为这套书总流连在超市的图书区。最终因为其价格占据我妈月工资的1/3，还是没能把它带回家。在上大学前，我家的书柜里几乎只有教材和教辅。我的父母都十分传统，他们因考上中专离开了农村，进入城市。在他们眼中，读书=考试，与考试无关的事都不该被鼓励，在我们这个落后的城市里持此种观念的人不在少数。记得我在高中地理课上曾偷偷读《追风筝的人》，老师发现后粗暴地把书扔了出去。
-在读大学前，我长期处在厌学状态下。上大学后，又陷入了无所适从的迷茫。整个四年，贯彻着高中老师挂在嘴边的“大学就轻松了”的生活方式，课是可去不可不去的，只要期末不挂科就行，课余时间基本都在打游戏。从小到大，我的课余时间不是在打游戏就是在看电视。直到毕业前夕，即将离开本科学校，我们去图书馆拍照，大屏上滚动播放“阅读之星”，我院的一位同学榜上有名，470+本。尽管我们都马上要去读硕士，四年四百多本的差距刻骨铭心。我不禁问自己，如果她一直保持着这个阅读量，我们往后的20年差距又会有多大？此时我意识到，毕业时拿同样学历的人之间存在着巨大的方差。
-彼时明显缺乏阅读量的我，对世界的感受，来自身边人的影响，没有坚定的价值观，心灵也格外脆弱。
-进入西交，我参加的第一个校园活动是图书馆举办的读书会，导读《平凡的世界》。路遥与我同乡，书中的许多地点我十分熟悉，这种心理接近性让我忍不住就想翻翻，读完花了2个月。此后不少时间里，我都在读现当代文学作品，包括我童年不屑一顾的《哈利波特》。虽在学术上无大长进，但我感到我内心有什么正在生根，似乎不再像从前那么敏感脆弱，也更能接受不同的观念，偶尔也会喷发出用文字表达的欲望。从前写作于我，只是语文考试中的大Boss，残血数着格子苟到800字后就是Game Over。可毕业后，我竟然当了两年御用笔杆子。
-写作可以是文科生的痛点，也可以是大招。没有什么能比文字更能看见作者脑袋里装了哪些东西。尽管AIGC大行其道，多用几次还是能感受到其辞藻堆砌的油滑。把一件事讲清楚，然后再讲得生动有趣，这将是文科生不被AI取代的核心竞争力。作品，远比那一纸学历更有说服力。在输出的过程中，你会发现头脑里缺失的信息模块，再返回阅读去输入补齐。长此以往，你头脑里的知识图景一次次迭代升级。苟日新，日日新，又日新。
-409年前的今天，塞万提斯和莎士比亚逝世。这一天被联合国定为世界读书日。何不在今天开始读点什么，写点什么，也许新一代伟大作家就此诞生呢!</description>
+      <description>&lt;p&gt;某天刷到白岩松说有些文科研究生有学历，没文化，找不到工作是正常的。虽然当时我找到了工作（不怎么样），还是对号入座了。&lt;/p&gt;
+&lt;p&gt;犹记硕士毕业时，我的阅读量大概不超30本（数据来自豆瓣记录），甚至不及一名当代小学生。其中21本是硕士期间读的，本科四年花在读书上的时间屈指可数，以至于读了哪些书还记得格外清晰（3本）：贾平凹的《带灯》、王安忆的《长恨歌》和《共产党宣言》，均为评论课老师布置的阅读任务，还剩两本未完成，至今在Kindle里躺着。&lt;/p&gt;
+&lt;p&gt;四大名著，初高中必读书目，专业课老师推荐书单&amp;hellip;无一例外，在我的成长轨迹里全部缺席。不知是叛逆意识作祟还是从小就有的求异心理，对于要求做的和周围人都做的事我总是不屑一顾。印象里唯一渴望拥有的书是《十万个为什么》，小学时因为这套书总流连在超市的图书区。最终因为其价格占据我妈月工资的1/3，还是没能把它带回家。在上大学前，我家的书柜里几乎只有教材和教辅。我的父母都十分传统，他们因考上中专离开了农村，进入城市。在他们眼中，读书=考试，与考试无关的事都不该被鼓励，在我们这个落后的城市里持此种观念的人不在少数。记得我在高中地理课上曾偷偷读《追风筝的人》，老师发现后粗暴地把书扔了出去。&lt;/p&gt;
+&lt;p&gt;在读大学前，我长期处在厌学状态下。上大学后，又陷入了无所适从的迷茫。整个四年，贯彻着高中老师挂在嘴边的“大学就轻松了”的生活方式，课是可去不可不去的，只要期末不挂科就行，课余时间基本都在打游戏。从小到大，我的课余时间不是在打游戏就是在看电视。直到毕业前夕，即将离开本科学校，我们去图书馆拍照，大屏上滚动播放“阅读之星”，我院的一位同学榜上有名，470+本。尽管我们都马上要去读硕士，四年四百多本的差距刻骨铭心。我不禁问自己，如果她一直保持着这个阅读量，我们往后的20年差距又会有多大？此时我意识到，毕业时拿同样学历的人之间存在着巨大的方差。&lt;/p&gt;
+&lt;p&gt;彼时明显缺乏阅读量的我，对世界的感受，来自身边人的影响，没有坚定的价值观，心灵也格外脆弱。&lt;/p&gt;
+&lt;p&gt;进入西交，我参加的第一个校园活动是图书馆举办的读书会，导读《平凡的世界》。路遥与我同乡，书中的许多地点我十分熟悉，这种心理接近性让我忍不住就想翻翻，读完花了2个月。此后不少时间里，我都在读现当代文学作品，包括我童年不屑一顾的《哈利波特》。虽在学术上无大长进，但我感到我内心有什么正在生根，似乎不再像从前那么敏感脆弱，也更能接受不同的观念，偶尔也会喷发出用文字表达的欲望。从前写作于我，只是语文考试中的大Boss，残血数着格子苟到800字后就是Game Over。可毕业后，我竟然当了两年御用笔杆子。&lt;/p&gt;
+&lt;p&gt;写作可以是文科生的痛点，也可以是大招。没有什么能比文字更能看见作者脑袋里装了哪些东西。尽管AIGC大行其道，多用几次还是能感受到其辞藻堆砌的油滑。把一件事讲清楚，然后再讲得生动有趣，这将是文科生不被AI取代的核心竞争力。作品，远比那一纸学历更有说服力。在输出的过程中，你会发现头脑里缺失的信息模块，再返回阅读去输入补齐。长此以往，你头脑里的知识图景一次次迭代升级。苟日新，日日新，又日新。&lt;/p&gt;
+&lt;p&gt;409年前的今天，塞万提斯和莎士比亚逝世。这一天被联合国定为世界读书日。何不在今天开始读点什么，写点什么，也许新一代伟大作家就此诞生呢!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Machine Learning for beginners</title>
       <link>http://localhost:1313/en/2024/07/05/ml/</link>
       <pubDate>Fri, 05 Jul 2024 15:44:20 +0800</pubDate>
       <guid>http://localhost:1313/en/2024/07/05/ml/</guid>
-      <description>Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.1
-The main types of machine learning are supervised learning and unsupervised learning.
-Supervised Learning Supervised Learning learns from being given “right answers” has been used most widely in real-world applications including spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection. The two major algorithms in supervised learning are regression and classification.</description>
+      <description>&lt;p&gt;Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The main types of machine learning are &lt;strong&gt;supervised learning&lt;/strong&gt; and &lt;strong&gt;unsupervised learning&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;supervised-learning&#34;&gt;Supervised Learning&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Supervised Learning&lt;/strong&gt; learns from being given “right answers” has been used most widely in real-world applications including &lt;em&gt;spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection&lt;/em&gt;. The two major algorithms in supervised learning are &lt;strong&gt;regression&lt;/strong&gt; and &lt;strong&gt;classification&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>计算传播学入门须知</title>
       <link>http://localhost:1313/cn/2024/06/27/css/</link>
       <pubDate>Thu, 27 Jun 2024 14:15:18 +0800</pubDate>
       <guid>http://localhost:1313/cn/2024/06/27/css/</guid>
-      <description>知道“计算传播”始于2023年了解香港学校，读教授们的论文。港校做CSS的老师有港大的King-wa Fu，中大的Liang Hai以及大家熟知的Zhu Jianhua。中大的Computational Social Science是单独申请的项目。
-计算传播学，顾名思义，即用计算的方法研究传播学。浏览MIT Media Lab，了解到这里是计算社科的发源地，一所以建模解决问题著称的顶级学校。创始人Alex &amp;lsquo;Sandy&amp;rsquo; Pentland被福布斯评为7位最牛数据科学家之一。 他和学生于2009年发表的一篇文章列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。
-注意ABC(Artifical Bee Colony)算法区别于bee algorithm，尽管两者都用于解决优化问题。
-内地在计算传播领域的明星学者有南京大学的王成军，他出版的《计算传播学导论》电子讲义版本在此，看完如果有收获，可以考虑买一本教材以示支持。北师大的许小可，不是很了解，只知道他在Science发过文章。读他们的论文是能够更快速地入门，中文看起来还是更省力些。
-计算传播在传媒业界的应用包括数据新闻、计算广告和媒体推荐系统。数据新闻已在业界风靡多年，十年前纽约时报的数据新闻《雪崩》集成了文字、音频、视频、动漫、数字化模型（DEM）、卫星模型联动等技术手段，引起一时轰动，夺得普利策奖，而我的母校举办的数据新闻大赛也已经到了第九届；计算广告是当前搜索引擎、社交媒体精准投放广告，实现数据变现的重要渠道；媒体推荐系统则建立了新的信息把关模式，使个性化信息获取成为可能，例如Netflix通过订阅用户的行为收集制作剧集。
-如果你对业界感兴趣，或许可以考虑浸会的一年制项目。
-计算传播学界的研究主要集中在多主体建模、网络科学两方面。以Computational Thinking为基础，大规模收集人类传播行为数据，以传播网络分析、文本挖掘、数据科学等为主要分析工具，把人类传播行为抽象称普适性原理并进行可视化。分析人际互动关系倚赖网络科学，内容分析则需要处理大量文本数据，常见的应用包括词云分析、语义网络分析、情感分析、文本聚类、主题模型。
-未来传播学的学科交叉对象将包括但不限于计算机科学、物理学、数学、生物学&amp;hellip;&amp;hellip;毫无疑问，都会基于数据的抓取、挖掘展开。这些动作的实现绕不开一门编程语言：Python（小白友好）。</description>
+      <description>&lt;p&gt;知道“计算传播”始于2023年了解香港学校，读教授们的论文。港校做CSS的老师有港大的&lt;a href=&#34;https://sites.google.com/site/fukingwa/home&#34;&gt;King-wa Fu&lt;/a&gt;，中大的&lt;a href=&#34;https://drhailiang.com/&#34;&gt;Liang Hai&lt;/a&gt;以及大家熟知的&lt;a href=&#34;https://scholars.cityu.edu.hk/en/persons/jian-hua-jonathan-zhu(680bbd78-7354-4005-999c-2bc4be7752e3).html&#34;&gt;Zhu Jianhua&lt;/a&gt;。中大的&lt;a href=&#34;https://pg.com.cuhk.edu.hk/phdcss/&#34;&gt;Computational Social Science&lt;/a&gt;是单独申请的项目。&lt;/p&gt;
+&lt;p&gt;计算传播学，顾名思义，即用计算的方法研究传播学。浏览&lt;a href=&#34;https://www.media.mit.edu/&#34;&gt;MIT Media Lab&lt;/a&gt;，了解到这里是计算社科的发源地，一所以建模解决问题著称的顶级学校。创始人&lt;a href=&#34;https://www.media.mit.edu/people/sandy/overview/&#34;&gt;Alex &amp;lsquo;Sandy&amp;rsquo; Pentland&lt;/a&gt;被福布斯评为&lt;a href=&#34;https://www.forbes.com/pictures/lmm45emkh/6-alex-sandy-pentland-professor-mit/&#34;&gt;7位最牛数据科学家&lt;/a&gt;之一。
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/&#34;&gt;他和学生于2009年发表的一篇文章&lt;/a&gt;列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意ABC(Artifical Bee Colony)算法区别于&lt;em&gt;bee algorithm&lt;/em&gt;，尽管两者都用于解决优化问题。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;内地在计算传播领域的明星学者有南京大学的&lt;a href=&#34;https://chengjun.github.io/zh/&#34;&gt;王成军&lt;/a&gt;，他出版的&lt;a href=&#34;https://chengjun.github.io/mybook/index.html&#34;&gt;《计算传播学导论》&lt;/a&gt;电子讲义版本在此，看完如果有收获，可以考虑买一本教材以示支持。北师大的&lt;a href=&#34;http://www.xiaokexu.com/&#34;&gt;许小可&lt;/a&gt;，不是很了解，只知道他在&lt;a href=&#34;https://www.science.org/&#34;&gt;Science&lt;/a&gt;发过文章。读他们的论文是能够更快速地入门，中文看起来还是更省力些。&lt;/p&gt;
+&lt;p&gt;计算传播在传媒业界的应用包括数据新闻、计算广告和媒体推荐系统。数据新闻已在业界风靡多年，十年前纽约时报的数据新闻&lt;a href=&#34;https://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek&#34;&gt;《雪崩》&lt;/a&gt;集成了文字、音频、视频、动漫、数字化模型（DEM）、卫星模型联动等技术手段，引起一时轰动，夺得普利策奖，而我的母校举办的&lt;a href=&#34;http://www.cdjcow.com/&#34;&gt;数据新闻大赛&lt;/a&gt;也已经到了第九届；计算广告是当前搜索引擎、社交媒体精准投放广告，实现数据变现的重要渠道；媒体推荐系统则建立了新的信息把关模式，使个性化信息获取成为可能，例如Netflix通过订阅用户的行为收集制作剧集。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果你对业界感兴趣，或许可以考虑浸会的&lt;a href=&#34;https://comd.hkbu.edu.hk/masters/zh-hans/aidm&#34;&gt;一年制项目&lt;/a&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;计算传播学界的研究主要集中在多主体建模、网络科学两方面。以Computational Thinking为基础，大规模收集人类传播行为数据，以传播网络分析、文本挖掘、数据科学等为主要分析工具，把人类传播行为抽象称普适性原理并进行可视化。分析人际互动关系倚赖网络科学，内容分析则需要处理大量文本数据，常见的应用包括词云分析、语义网络分析、情感分析、文本聚类、主题模型。&lt;/p&gt;
+&lt;p&gt;未来传播学的学科交叉对象将包括但不限于计算机科学、物理学、数学、生物学&amp;hellip;&amp;hellip;毫无疑问，都会基于数据的抓取、挖掘展开。这些动作的实现绕不开一门编程语言：Python（小白友好）。&lt;/p&gt;</description>
     </item>
     <item>
       <title>信息过载与断舍离</title>
       <link>http://localhost:1313/cn/2024/06/25/info-overload/</link>
       <pubDate>Tue, 25 Jun 2024 11:47:18 +0800</pubDate>
       <guid>http://localhost:1313/cn/2024/06/25/info-overload/</guid>
-      <description>信息过载这个词，是从新传考研过程中学到的。6年前只知其意，却并无深刻感受，直到今年，打开尘封已久的微博、微信、小红书、豆瓣收藏夹，里头还躺着我高中阶段收藏的如何写出满分作文、考研专业课的各种帖子。教育的滞后性在这一刻尽情凸显，原来学新传并没有提高多少我的媒介素养。看着收藏夹里滑不完的帖子，我开始产生了信息倦怠，就像消化不良的人失去了食欲。停止流连于社交媒体的首页，我开始思考怎么来消化这些古董。
-直到有天我在朋友圈看到一位朋友刷屏式地分享各路帖子，心生好奇：他不仅有繁重的博士论文要做，还在运营自己的自媒体账号，分享的这么多的信息能看得过来吗？询问后果然大多是碍于人情转发的信息，他对信息有严格的选择机制：读完有用的信息做笔记，待读的信息发朋友圈仅自己可见读完即删，不得不发但不读的信息直接分享。
-我开始回忆自己的社交媒体使用习惯，收藏的帖子基本都是看了标题可能有用但没耐心看完的，假装mark了等于看了。实际上，看了没应用也不见得有用。于是我把收藏夹刷到底，判断这些旧信息对现阶段的我是否有用，是则设法读完，整理为某类型的笔记，否则直接删掉。
-整理过程中，我发现自己的收藏信息类型无外乎：美妆、英语学习、考研专业课、自我提升（读书、运动），但距我收藏的第一条美妆信息已经过了8年，我仍然没有形成化妆习惯，买过的两瓶粉底液都过了期，读书运动也无所成，至于四六级、考研早已是过去时了。这些陈旧的信息提醒着我社交媒体使用的虚假满足，以及对自己全能全知、全面提升的幻想是造成拖延的本质。这八年如果一个阶段专注一件事，手上有一件事就去完成一件事，保持收藏夹里日日新，我想应该是另一番景象吧。做事情是需要一鼓作气的，再而衰、三而竭，放得太久，甚至都不会记得还有这么一回事，拾起来谈何容易。
-手机、平板、电脑取代了笔记本，构建了我们的个人图书馆、工作仓库，图书馆的书需要分类检索，工作仓库需要清理盘点，云端空间又何尝不需要大扫除呢？结束被动的喂什么吃什么模式，减少噪音，转向主动汲取所需信息是实现信息自由的第一步。</description>
+      <description>&lt;p&gt;信息过载这个词，是从新传考研过程中学到的。6年前只知其意，却并无深刻感受，直到今年，打开尘封已久的微博、微信、小红书、豆瓣收藏夹，里头还躺着我高中阶段收藏的如何写出满分作文、考研专业课的各种帖子。教育的滞后性在这一刻尽情凸显，原来学新传并没有提高多少我的媒介素养。看着收藏夹里滑不完的帖子，我开始产生了信息倦怠，就像消化不良的人失去了食欲。停止流连于社交媒体的首页，我开始思考怎么来消化这些古董。&lt;/p&gt;
+&lt;p&gt;直到有天我在朋友圈看到一位朋友刷屏式地分享各路帖子，心生好奇：他不仅有繁重的博士论文要做，还在运营自己的自媒体账号，分享的这么多的信息能看得过来吗？询问后果然大多是碍于人情转发的信息，他对信息有严格的选择机制：读完有用的信息做笔记，待读的信息发朋友圈仅自己可见读完即删，不得不发但不读的信息直接分享。&lt;/p&gt;
+&lt;p&gt;我开始回忆自己的社交媒体使用习惯，收藏的帖子基本都是看了标题可能有用但没耐心看完的，假装mark了等于看了。实际上，看了没应用也不见得有用。于是我把收藏夹刷到底，判断这些旧信息对现阶段的我是否有用，是则设法读完，整理为某类型的笔记，否则直接删掉。&lt;/p&gt;
+&lt;p&gt;整理过程中，我发现自己的收藏信息类型无外乎：美妆、英语学习、考研专业课、自我提升（读书、运动），但距我收藏的第一条美妆信息已经过了8年，我仍然没有形成化妆习惯，买过的两瓶粉底液都过了期，读书运动也无所成，至于四六级、考研早已是过去时了。这些陈旧的信息提醒着我社交媒体使用的虚假满足，以及对自己全能全知、全面提升的幻想是造成拖延的本质。这八年如果一个阶段专注一件事，手上有一件事就去完成一件事，保持收藏夹里日日新，我想应该是另一番景象吧。做事情是需要一鼓作气的，再而衰、三而竭，放得太久，甚至都不会记得还有这么一回事，拾起来谈何容易。&lt;/p&gt;
+&lt;p&gt;手机、平板、电脑取代了笔记本，构建了我们的个人图书馆、工作仓库，图书馆的书需要分类检索，工作仓库需要清理盘点，云端空间又何尝不需要大扫除呢？结束被动的喂什么吃什么模式，减少噪音，转向主动汲取所需信息是实现信息自由的第一步。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highlight of Calculus</title>
       <link>http://localhost:1313/en/2024/06/25/highlight-calc/</link>
       <pubDate>Tue, 25 Jun 2024 11:32:25 +0800</pubDate>
       <guid>http://localhost:1313/en/2024/06/25/highlight-calc/</guid>
-      <description>Highlight of Calculus These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang. I wrote it mainly out of the motivation to active recall the knowledge I&amp;rsquo;ve learnt. If it could also help someone to understand the calculus, that would be much greater! Faymen said the expert could teach the conception so simple that even a child can understand without problmes. If you find there are something unclear, confusing or mistakes.</description>
+      <description>&lt;h1 id=&#34;highlight-of-calculus&#34;&gt;Highlight of Calculus&lt;/h1&gt;
+&lt;p&gt;These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang. I wrote it mainly out of the motivation to active recall the knowledge I&amp;rsquo;ve learnt. If it could also help someone to understand the calculus, that would be much greater!
+Faymen said the expert could teach the conception so simple that even a child can understand without problmes. If you find there are something unclear, confusing or mistakes. Please leave me the comment below or contact me via email.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
