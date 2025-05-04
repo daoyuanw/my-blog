@@ -39,6 +39,6 @@
 margin-bottom: 10px">
 {{ if .IsHome}}
 {{ (index .Site.Params.lang.Sitelastupdate $.Site.Params.defaultLang) }}
-{{ .Site.LastChange.Format "2006-01-02" }}
+{{ .Site.Lastmod "2006-01-02" }}
 {{ end }}
 </div>
