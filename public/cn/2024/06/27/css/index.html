@@ -1,219 +1,201 @@
+<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><a name="top"></a>
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DaoyuanWu</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
-<title>计算传播学入门须知 | DaoyuanWu</title>
-<meta name="keywords" content="">
-<meta name="description" content="知道“计算传播”始于2023年了解香港学校，读教授们的论文。港校做CSS的老师有港大的King-wa Fu，中大的Liang Hai以及大家熟知的Zhu Jianhua。中大的Computational Social Science是单独申请的项目。
-计算传播学，顾名思义，即用计算的方法研究传播学。浏览MIT Media Lab，了解到这里是计算社科的发源地，一所以建模解决问题著称的顶级学校。创始人Alex &lsquo;Sandy&rsquo; Pentland被福布斯评为7位最牛数据科学家之一。
-他和学生于2009年发表的一篇文章列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" rel="stylesheet">
 
-注意ABC(Artifical Bee Colony)算法区别于bee algorithm，尽管两者都用于解决优化问题。
-内地在计算传播领域的明星学者有南京大学的王成军，他出版的《计算传播学导论》电子讲义版本在此，看完如果有收获，可以考虑买一本教材以示支持。北师大的许小可，不是很了解，只知道他在Science发过文章。读他们的论文是能够更快速地入门，中文看起来还是更省力些。
-计算传播在传媒业界的应用包括数据新闻、计算广告和媒体推荐系统。数据新闻已在业界风靡多年，十年前纽约时报的数据新闻《雪崩》集成了文字、音频、视频、动漫、数字化模型（DEM）、卫星模型联动等技术手段，引起一时轰动，夺得普利策奖，而我的母校举办的数据新闻大赛也已经到了第九届；计算广告是当前搜索引擎、社交媒体精准投放广告，实现数据变现的重要渠道；媒体推荐系统则建立了新的信息把关模式，使个性化信息获取成为可能，例如Netflix通过订阅用户的行为收集制作剧集。
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
 
-如果你对业界感兴趣，或许可以考虑浸会的一年制项目。
-计算传播学界的研究主要集中在多主体建模、网络科学两方面。以Computational Thinking为基础，大规模收集人类传播行为数据，以传播网络分析、文本挖掘、数据科学等为主要分析工具，把人类传播行为抽象称普适性原理并进行可视化。分析人际互动关系倚赖网络科学，内容分析则需要处理大量文本数据，常见的应用包括词云分析、语义网络分析、情感分析、文本聚类、主题模型。
-未来传播学的学科交叉对象将包括但不限于计算机科学、物理学、数学、生物学&hellip;&hellip;毫无疑问，都会基于数据的抓取、挖掘展开。这些动作的实现绕不开一门编程语言：Python（小白友好）。">
-<meta name="author" content="武道源">
-<link rel="canonical" href="http://localhost:1313/cn/2024/06/27/css/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.6da9a63d25a9608bca2f7f907a030e887a7dd3c3f3918e4cc113129361414bda.css" integrity="sha256-bammPSWpYIvKL3&#43;QegMOiHp908PzkY5MwRMSk2FBS9o=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/cn/2024/06/27/css/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
+<script>hljs.initHighlightingOnLoad();</script>
 
-            .list {
-                background: var(--theme);
-            }
 
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
 
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
+            <link rel="icon" href="http://localhost:1313/media/hugo-logo.png">
 
-    </style>
-</noscript>
-</head>
 
-<body class="" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
 
-</script>
 
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="DaoyuanWu (Alt + H)">DaoyuanWu</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
-        </div>
-        <ul id="menu">
-        </ul>
-    </nav>
-</header>
-<main class="main">
 
-<article class="post-single">
-  <header class="post-header">
-    
-    <h1 class="post-title entry-hint-parent">
-      计算传播学入门须知
-    </h1>
-    <div class="post-meta"><span title='2024-06-27 14:15:18 +0800 CST'>June 27, 2024</span>&nbsp;·&nbsp;武道源
+  </head>
+  
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav" >
+      <a href="/" class="nav-logo">
+        <img src="/media/hugo-logo.png"
+         width="50"
+         height="50"
+         alt="Hugo-ht">
+      </a>
 
+      <ul class="nav-links" >
+        
+        
+           <li><a href="/cn/about/">关于</a></li>
+       
+           <li><a href="/cn/posts/">日志</a></li>
+       
+           <li><a href="/">English</a></li>
+       
+       
+      </ul>
+</nav>
+      </header>
+
+<main class = "content" role="main">
+<div style="text-align: center">
+
+<h1>计算传播学入门须知</h1>
+
+<p>武道源 
+ / 2024-06-27 </p>
+
+<hr/>
 </div>
-  </header> 
-  <div class="post-content"><p>知道“计算传播”始于2023年了解香港学校，读教授们的论文。港校做CSS的老师有港大的<a href="https://sites.google.com/site/fukingwa/home">King-wa Fu</a>，中大的<a href="https://drhailiang.com/">Liang Hai</a>以及大家熟知的<a href="https://scholars.cityu.edu.hk/en/persons/jian-hua-jonathan-zhu(680bbd78-7354-4005-999c-2bc4be7752e3).html">Zhu Jianhua</a>。中大的<a href="https://pg.com.cuhk.edu.hk/phdcss/">Computational Social Science</a>是单独申请的项目。</p>
-<p>计算传播学，顾名思义，即用计算的方法研究传播学。浏览<a href="https://www.media.mit.edu/">MIT Media Lab</a>，了解到这里是计算社科的发源地，一所以建模解决问题著称的顶级学校。创始人<a href="https://www.media.mit.edu/people/sandy/overview/">Alex &lsquo;Sandy&rsquo; Pentland</a>被福布斯评为<a href="https://www.forbes.com/pictures/lmm45emkh/6-alex-sandy-pentland-professor-mit/">7位最牛数据科学家</a>之一。
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/">他和学生于2009年发表的一篇文章</a>列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。</p>
+
+<span class="article-toolbar">
+  
+  
+  
+  
+  
+  
+  
+  <a href='https://github.com/dawnlim1/my-space/edit/main/content/cn%5cposts%5c%e8%ae%a1%e7%ae%97%e4%bc%a0%e6%92%ad%e5%ad%a6%e5%85%a5%e9%97%a8.md'style="font-size: 24px; color: black;" target="_blank"><i class="fa fa-edit" aria-hidden="true" title="编辑本页"></i>
+  </a>
+  
+  
+  
+</span>
+
+
+
+<div class="body-text list-text">
+<p>知道“计算传播”始于2023年了解香港学校，读教授们的论文。港校做CSS的老师有港大的<a href="https://sites.google.com/site/fukingwa/home" target="_blank" rel="noreferrer noopener">King-wa Fu</a>
+
+，中大的<a href="https://drhailiang.com/" target="_blank" rel="noreferrer noopener">Liang Hai</a>
+
+以及大家熟知的<a href="https://scholars.cityu.edu.hk/en/persons/jian-hua-jonathan-zhu%28680bbd78-7354-4005-999c-2bc4be7752e3%29.html" target="_blank" rel="noreferrer noopener">Zhu Jianhua</a>
+
+。中大的<a href="https://pg.com.cuhk.edu.hk/phdcss/" target="_blank" rel="noreferrer noopener">Computational Social Science</a>
+
+是单独申请的项目。</p>
+<p>计算传播学，顾名思义，即用计算的方法研究传播学。浏览<a href="https://www.media.mit.edu/" target="_blank" rel="noreferrer noopener">MIT Media Lab</a>
+
+，了解到这里是计算社科的发源地，一所以建模解决问题著称的顶级学校。创始人<a href="https://www.media.mit.edu/people/sandy/overview/" target="_blank" rel="noreferrer noopener">Alex &lsquo;Sandy&rsquo; Pentland</a>
+
+被福布斯评为<a href="https://www.forbes.com/pictures/lmm45emkh/6-alex-sandy-pentland-professor-mit/" target="_blank" rel="noreferrer noopener">7位最牛数据科学家</a>
+
+之一。
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2745217/" target="_blank" rel="noreferrer noopener">他和学生于2009年发表的一篇文章</a>
+
+列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。</p>
 <blockquote>
 <p>注意ABC(Artifical Bee Colony)算法区别于<em>bee algorithm</em>，尽管两者都用于解决优化问题。</p></blockquote>
-<p>内地在计算传播领域的明星学者有南京大学的<a href="https://chengjun.github.io/zh/">王成军</a>，他出版的<a href="https://chengjun.github.io/mybook/index.html">《计算传播学导论》</a>电子讲义版本在此，看完如果有收获，可以考虑买一本教材以示支持。北师大的<a href="http://www.xiaokexu.com/">许小可</a>，不是很了解，只知道他在<a href="https://www.science.org/">Science</a>发过文章。读他们的论文是能够更快速地入门，中文看起来还是更省力些。</p>
-<p>计算传播在传媒业界的应用包括数据新闻、计算广告和媒体推荐系统。数据新闻已在业界风靡多年，十年前纽约时报的数据新闻<a href="https://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek">《雪崩》</a>集成了文字、音频、视频、动漫、数字化模型（DEM）、卫星模型联动等技术手段，引起一时轰动，夺得普利策奖，而我的母校举办的<a href="http://www.cdjcow.com/">数据新闻大赛</a>也已经到了第九届；计算广告是当前搜索引擎、社交媒体精准投放广告，实现数据变现的重要渠道；媒体推荐系统则建立了新的信息把关模式，使个性化信息获取成为可能，例如Netflix通过订阅用户的行为收集制作剧集。</p>
+<p>内地在计算传播领域的明星学者有南京大学的<a href="https://chengjun.github.io/zh/" target="_blank" rel="noreferrer noopener">王成军</a>
+
+，他出版的<a href="https://chengjun.github.io/mybook/index.html" target="_blank" rel="noreferrer noopener">《计算传播学导论》</a>
+
+电子讲义版本在此，看完如果有收获，可以考虑买一本教材以示支持。北师大的<a href="http://www.xiaokexu.com/" target="_blank" rel="noreferrer noopener">许小可</a>
+
+，不是很了解，只知道他在<a href="https://www.science.org/" target="_blank" rel="noreferrer noopener">Science</a>
+
+发过文章。读他们的论文是能够更快速地入门，中文看起来还是更省力些。</p>
+<p>计算传播在传媒业界的应用包括数据新闻、计算广告和媒体推荐系统。数据新闻已在业界风靡多年，十年前纽约时报的数据新闻<a href="https://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek" target="_blank" rel="noreferrer noopener">《雪崩》</a>
+
+集成了文字、音频、视频、动漫、数字化模型（DEM）、卫星模型联动等技术手段，引起一时轰动，夺得普利策奖，而我的母校举办的<a href="http://www.cdjcow.com/" target="_blank" rel="noreferrer noopener">数据新闻大赛</a>
+
+也已经到了第九届；计算广告是当前搜索引擎、社交媒体精准投放广告，实现数据变现的重要渠道；媒体推荐系统则建立了新的信息把关模式，使个性化信息获取成为可能，例如Netflix通过订阅用户的行为收集制作剧集。</p>
 <blockquote>
-<p>如果你对业界感兴趣，或许可以考虑浸会的<a href="https://comd.hkbu.edu.hk/masters/zh-hans/aidm">一年制项目</a>。</p></blockquote>
+<p>如果你对业界感兴趣，或许可以考虑浸会的<a href="https://comd.hkbu.edu.hk/masters/zh-hans/aidm" target="_blank" rel="noreferrer noopener">一年制项目</a>
+
+。</p></blockquote>
 <p>计算传播学界的研究主要集中在多主体建模、网络科学两方面。以Computational Thinking为基础，大规模收集人类传播行为数据，以传播网络分析、文本挖掘、数据科学等为主要分析工具，把人类传播行为抽象称普适性原理并进行可视化。分析人际互动关系倚赖网络科学，内容分析则需要处理大量文本数据，常见的应用包括词云分析、语义网络分析、情感分析、文本聚类、主题模型。</p>
 <p>未来传播学的学科交叉对象将包括但不限于计算机科学、物理学、数学、生物学&hellip;&hellip;毫无疑问，都会基于数据的抓取、挖掘展开。这些动作的实现绕不开一门编程语言：Python（小白友好）。</p>
 
 
-  </div>
+<p style="color:#777;">最后一次修改于 2024-06-27</p>
+</div>
+<a href="#top"><i class="fa fa-chevron-up" style="font-size: 30px; color: black;"></i></a>
 
-  <footer class="post-footer">
-    <ul class="post-tags">
-    </ul>
-  </footer>
-</article>
-    </main>
-    
+</main>
+
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">DaoyuanWu</a></span> · 
+  <div class="content">
 
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
+<script src="https://giscus.app/client.js"
+        data-repo="daoyuanw/my-blog"
+        data-repo-id="R_kgDOMNt48A"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMNt48M4CgWw2"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+</br>
+ 
+</div>
+  <script type="text/javascript" src="/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" src="/js/center-img.js"></script>
+
+
+
+     <ul class="footer-links">
+      
+       
+       
+       
+       <li><a href="/cn/posts/index.xml" type="application/rss+xml" title="RSS feed">
+       订阅 </a>
+       </li>
+       
+       
+       <li>
+       
+       <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">
+       
+        版权
+        <i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i> 
+        </a>
+       </li>
+       
+     </ul>
+     <div class="copyright-text">
+            
+            ©
+            
+            武道源
+            
+            2024
+            
+     </div>
+
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
 
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
 
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
 
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
-</script>
-</body>
-
-</html>

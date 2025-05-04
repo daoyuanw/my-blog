@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English Posts on DaoyuanWu</title>
     <link>http://localhost:1313/en/posts/</link>
     <description>Recent content in English Posts on DaoyuanWu</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2024 15:44:20 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,19 +13,14 @@
       <link>http://localhost:1313/en/2024/07/05/ml/</link>
       <pubDate>Fri, 05 Jul 2024 15:44:20 +0800</pubDate>
       <guid>http://localhost:1313/en/2024/07/05/ml/</guid>
-      <description>&lt;p&gt;Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;The main types of machine learning are &lt;strong&gt;supervised learning&lt;/strong&gt; and &lt;strong&gt;unsupervised learning&lt;/strong&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;supervised-learning&#34;&gt;Supervised Learning&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Supervised Learning&lt;/strong&gt; learns from being given “right answers” has been used most widely in real-world applications including &lt;em&gt;spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection&lt;/em&gt;. The two major algorithms in supervised learning are &lt;strong&gt;regression&lt;/strong&gt; and &lt;strong&gt;classification&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;The main types of machine learning are &lt;strong&gt;supervised learning&lt;/strong&gt; and &lt;strong&gt;unsupervised learning&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;supervised-learning&#34;&gt;Supervised Learning&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Supervised Learning&lt;/strong&gt; learns from being given “right answers” has been used most widely in real-world applications including &lt;em&gt;spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection&lt;/em&gt;. The two major algorithms in supervised learning are &lt;strong&gt;regression&lt;/strong&gt; and &lt;strong&gt;classification&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highlight of Calculus</title>
       <link>http://localhost:1313/en/2024/06/25/highlight-calc/</link>
       <pubDate>Tue, 25 Jun 2024 11:32:25 +0800</pubDate>
       <guid>http://localhost:1313/en/2024/06/25/highlight-calc/</guid>
-      <description>&lt;h1 id=&#34;highlight-of-calculus&#34;&gt;Highlight of Calculus&lt;/h1&gt;
-&lt;p&gt;These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang. I wrote it mainly out of the motivation to active recall the knowledge I&amp;rsquo;ve learnt. If it could also help someone to understand the calculus, that would be much greater!
-Faymen said the expert could teach the conception so simple that even a child can understand without problmes. If you find there are something unclear, confusing or mistakes. Please leave me the comment below or contact me via email.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;highlight-of-calculus&#34;&gt;Highlight of Calculus&lt;/h1&gt;&#xA;&lt;p&gt;These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang. I wrote it mainly out of the motivation to active recall the knowledge I&amp;rsquo;ve learnt. If it could also help someone to understand the calculus, that would be much greater!&#xA;Faymen said the expert could teach the conception so simple that even a child can understand without problmes. If you find there are something unclear, confusing or mistakes. Please leave me the comment below or contact me via email.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
