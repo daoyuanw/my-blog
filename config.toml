@@ -1,7 +1,7 @@
 baseURL = "https://my-space-daoyuan.vercel.app/"
 languageCode = "en-us"
 title = "DaoyuanWu"
-theme = "Hugo-ht"
+theme = "PaperMod"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
 # enableGitInfo = true
