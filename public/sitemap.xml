@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-23T22:06:04+08:00</lastmod>
+    <loc>http://localhost:1313/cn/recipes/</loc>
+    <lastmod>2025-05-05T16:36:12+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cn/posts/</loc>
-    <lastmod>2025-04-23T22:06:04+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-05T16:36:12+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cn/</loc>
+    <lastmod>2025-05-05T16:36:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/2025/05/05/sweet-potato-strawberry/</loc>
+    <lastmod>2025-05-05T16:36:12+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/posts/</loc>
     <lastmod>2025-04-23T22:06:04+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cn/2025/04/23/linux/</loc>
