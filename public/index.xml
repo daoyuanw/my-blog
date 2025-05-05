@@ -6,15 +6,8 @@
     <description>Recent content in Home on DaoyuanWu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 May 2025 16:36:12 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 22:06:04 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>紫薯草莓</title>
-      <link>http://localhost:1313/cn/2025/05/05/sweet-potato-strawberry/</link>
-      <pubDate>Mon, 05 May 2025 16:36:12 +0800</pubDate>
-      <guid>http://localhost:1313/cn/2025/05/05/sweet-potato-strawberry/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;紫薯切块，蒸20分钟至用筷子可以插入。&lt;/li&gt;&#xA;&lt;li&gt;缓加牛奶到紫薯中，边倒边压成泥，压至顺滑。&lt;/li&gt;&#xA;&lt;li&gt;取一块在手心压扁，包入洗净的草莓。将紫薯自下而上完全包裹搓圆。&lt;/li&gt;&#xA;&lt;li&gt;撒上椰蓉（optional）。&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
     <item>
       <title>安装Windows自带的Linux子系统</title>
       <link>http://localhost:1313/cn/2025/04/23/linux/</link>
@@ -56,6 +49,13 @@
       <pubDate>Tue, 25 Jun 2024 11:32:25 +0800</pubDate>
       <guid>http://localhost:1313/en/2024/06/25/highlight-calc/</guid>
       <description>&lt;h1 id=&#34;highlight-of-calculus&#34;&gt;Highlight of Calculus&lt;/h1&gt;&#xA;&lt;p&gt;These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang. I wrote it mainly out of the motivation to active recall the knowledge I&amp;rsquo;ve learnt. If it could also help someone to understand the calculus, that would be much greater!&#xA;Faymen said the expert could teach the conception so simple that even a child can understand without problmes. If you find there are something unclear, confusing or mistakes. Please leave me the comment below or contact me via email.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>食谱名称</title>
+      <link>http://localhost:1313/cn/recipes/%E7%B4%AB%E8%96%AF%E8%8D%89%E8%8E%93/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cn/recipes/%E7%B4%AB%E8%96%AF%E8%8D%89%E8%8E%93/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;紫薯切块，蒸20分钟至用筷子可以插入。&lt;/li&gt;&#xA;&lt;li&gt;缓加牛奶到紫薯中，边倒边压成泥，压至顺滑。&lt;/li&gt;&#xA;&lt;li&gt;取一块在手心压扁，包入洗净的草莓。将紫薯自下而上完全包裹搓圆。&lt;/li&gt;&#xA;&lt;li&gt;撒上椰蓉（optional）。&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
