@@ -36,8 +36,9 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/cn/posts/"
     weight = 2
 [[menu.cn]]
+    identifier = "recipes"
     name = "食谱"
-    url = "/cn/posts/"
+    url = "/cn/recipes/"
     weight = 2
 [[menu.cn]]
     name = "English"
