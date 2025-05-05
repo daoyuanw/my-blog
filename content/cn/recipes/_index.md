@@ -7,7 +7,3 @@ weight: 2
 
 ## 食谱列表
 
-分享一些我的备用菜谱：
-
-{{< contentgroup "cn" >}}
-
