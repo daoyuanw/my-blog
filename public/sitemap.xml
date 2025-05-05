@@ -3,15 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-05T16:36:12+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/</loc>
-    <lastmod>2025-05-05T16:36:12+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/recipes/</loc>
-    <lastmod>2025-05-05T16:36:12+08:00</lastmod>
+    <lastmod>2025-04-23T22:06:04+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cn/posts/</loc>
+    <lastmod>2025-04-23T22:06:04+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/</loc>
     <lastmod>2025-04-23T22:06:04+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cn/2025/04/23/linux/</loc>
@@ -38,7 +35,7 @@
     <loc>http://localhost:1313/en/2024/06/25/highlight-calc/</loc>
     <lastmod>2024-06-25T11:32:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cn/recipes/%E7%B4%AB%E8%96%AF%E8%8D%89%E8%8E%93/</loc>
+    <loc>http://localhost:1313/cn/2024/05/05/%E7%B4%AB%E8%96%AF%E8%8D%89%E8%8E%93/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
