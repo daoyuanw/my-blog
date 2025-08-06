@@ -36,13 +36,9 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/cn/posts/"
     weight = 2
 [[menu.cn]]
-    name = "食谱"
-    url = "/cn/recipes/"
-    weight = 3
-[[menu.cn]]
     name = "English"
     url = "/"
-    weight = 4
+    weight = 3
 
 [params]
     description = "Peronal website of Daoyuan Wu"

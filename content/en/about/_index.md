@@ -1,11 +1,12 @@
 ---
 title: "Curriculum Vitae"
 type : list-single
+date : 2025-08-06
 ---
 
 ## Daoyuan Wu
 
-Email: wudy19@stu.edu.cn<br>
+Email: wudaoyuanxjtu@gmail.com<br>
 
 Born: August, 1998,Yan'an, Shaan'Xi Province<br>
 Nationality: China
