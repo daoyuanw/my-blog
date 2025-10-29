@@ -61,10 +61,10 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "media/hugo-logo.png" # you can change it
+  url = "favicon.ico" # you can change it
   width = 50.0
   height = 50.0
-  alt = "Hugo-ht"
+  alt = "DaoyuanWu Icon"
 
 [params.lang]
 
