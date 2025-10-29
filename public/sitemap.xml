@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-09-07T20:52:04+08:00</lastmod>
+    <lastmod>2025-10-29T02:36:52+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2025-09-07T20:52:04+08:00</lastmod>
+    <lastmod>2025-10-29T02:36:52+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-07T20:52:04+08:00</lastmod>
+    <lastmod>2025-10-29T02:36:52+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/2025/10/29/shell-tools-and-scripting/</loc>
+    <lastmod>2025-10-29T02:36:52+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/2025/09/07/never-too-late-to-start/</loc>
     <lastmod>2025-09-07T20:52:04+08:00</lastmod>
