@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-31T02:32:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/posts/</loc>
+    <lastmod>2025-10-31T02:32:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/</loc>
+    <lastmod>2025-10-31T02:32:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/2025/10/31/%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E5%B7%A5%E5%85%B7%E5%8C%85/</loc>
+    <lastmod>2025-10-31T02:32:20+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-10-29T02:36:52+08:00</lastmod>
   </url><url>
@@ -11,9 +23,6 @@
     <loc>http://localhost:1313/en/2025/10/29/hello-shell/</loc>
     <lastmod>2025-10-29T02:36:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-29T02:36:52+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/2025/09/07/never-too-late-to-start/</loc>
     <lastmod>2025-09-07T20:52:04+08:00</lastmod>
   </url><url>
@@ -21,12 +30,6 @@
     <lastmod>2025-08-06T08:24:33+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/about/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/posts/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/</loc>
     <lastmod>2025-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cn/about/</loc>
