@@ -41,8 +41,9 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 3
 
 [params]
-    description = "Peronal website of Daoyuan Wu"
-    homeText = "You just need a Hugo blog from scratch"
+    description = "Coding, learning and writing"
+    primaryColor = "#f8f9fa"
+    backgroundColor = "#4a90e2"
     # Please make sure `blogDirNmae` matches the name used in `menu` above:
     blogDirName = "posts"
     # singleLang = true
@@ -50,14 +51,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
     favicon = "favicon.ico"
-    # Edit by yourself:
-    GithubEdit = "https://github.com/dawnlim1/my-space/edit/main/content/"
-    copyright = "&copy;"
-    copyrightYear = "2024"
-    # Edit by yourself:
-    GithubRepo = "https://github.com/dawnlim1/my-space"
-    # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/dawnlim1/my-space/main/content/" 
+    author = "Daoyuan Wu"
 
 [params.logo]
   # Change the logo picture as your prefer:
