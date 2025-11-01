@@ -7,12 +7,12 @@ draft: false
 toc: false
 ---
 
-专业开发者使用各种工具来提升生产力和代码质量。本表格分类总结了一些主要工具，其关键特征和典型用途，可用于 Web开发学习，帮助理解工具在开发流程中的角色。
+开发者需要各种工具来提升生产力和代码质量。下表分类总结了一些必要工具，其关键特征和典型用途，可以帮助理解各种工具在Web开发流程中的角色。
 
 | 工具类别          | 示例工具/平台                                                                 | 关键特征                                                                 | 典型用途                     |
 |-------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------|
 | 计算机 (硬件)    | 台式机/笔记本电脑 (Windows, macOS, Linux)                                     | 快速处理能力、充足 RAM，支持资源密集型任务。                             | 主要开发环境，提供计算资源。|
-| 代码编辑器/IDE   | Visual Studio, Vim, IntelliJ IDEA, JetBrains, PyCharm, VS Code, Sublime Text, Atom, Notepad++, Brackets | 代码补全、调试、集成终端、扩展库支持。                                   | 编写、编辑和调试代码。      |
+| 代码编辑器/IDE   | Visual Studio, Vim, PyCharm, VS Code, Sublime Text,  Notepad++| 代码补全、调试、集成终端、扩展库支持。                                   | 编写、编辑和调试代码。      |
 | 版本控制系统     | Git (平台: GitHub, GitLab, Bitbucket)                                         | 跟踪代码更改、多分支协作、云托管、合并功能。                             | 版本管理和团队协作。        |
 | 包管理器         | NPM/Yarn/PNPM (JavaScript), PIP (Python), Composer (PHP), Maven (Java)        | 简化依赖添加/更新/移除、管理库和项目依赖。                               | 管理第三方库和依赖。        |
 | 测试框架         | Cypress, Playwright, Selenium (通用); Jest (JS), pytest (Python), JUnit (Java), PHPUnit (PHP) | 自动化测试代码功能、语言特定支持、端到端测试。                           | 验证代码功能和预期行为。    |

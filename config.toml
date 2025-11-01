@@ -42,8 +42,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params]
     description = "Coding, learning and writing"
-    primaryColor = "#f8f9fa"
-    backgroundColor = "#4a90e2"
+    author = "Daoyuan Wu"
     # Please make sure `blogDirNmae` matches the name used in `menu` above:
     blogDirName = "posts"
     # singleLang = true
@@ -51,7 +50,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
     favicon = "favicon.ico"
-    author = "Daoyuan Wu"
+    
 
 [params.logo]
   # Change the logo picture as your prefer:

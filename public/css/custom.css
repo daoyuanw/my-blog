@@ -1,0 +1,107 @@
+/* 北卡蓝主色调微调：Carolina Blue #7BAFD4
+   基于 hugo-ht style.css，覆盖链接、导航、TOC 等强调元素。
+   悬停变体：#5A9CCF (稍暗蓝)。
+   保持灰调背景/文本不变。 */
+
+/* 1. 导航链接（.nav-links a）：默认黑 → 北卡蓝 */
+.nav-links a {
+  color: #7BAFD4;
+}
+.nav-links a:hover {
+  color: #5A9CCF;  /* 覆盖原 #000 */
+}
+
+/* 2. 页脚链接（.footer-links a）：灰 #888 → 北卡蓝 */
+.footer-links a {
+  color: #7BAFD4;  /* 覆盖原 #888 */
+}
+.footer-links a:hover,
+.footer-links a:focus {
+  color: #5A9CCF;  /* 覆盖原 #222 */
+}
+
+/* 3. 列表页/正文链接（.list-page a, .body-text.list-text a）：黑 → 北卡蓝
+   保留下划线（border-bottom: 1px solid; 默认 currentColor，会随 color 变蓝） */
+.list-page a,
+.body-text.list-text a {
+  color: #7BAFD4;  /* 覆盖原 black */
+}
+.list-page a:hover,
+.body-text.list-text sup a,
+.body-text.list-text a:hover {
+  color: #5A9CCF;  /* 悬停深蓝，覆盖原空/无变化 */
+}
+
+/* 4. TOC 链接和边框（.toc）：灰 #757575 → 北卡蓝边框，链接蓝 */
+.toc {
+  border-color: #7BAFD4;  /* 覆盖原 #757575 */
+  color: #5A9CCF;  /* TOC 文本稍暗蓝，覆盖原 #757575 */
+}
+.toc a,
+.toc a:visited {
+  color: #7BAFD4;  /* 覆盖原 #757575 */
+}
+.toc a {
+  border-bottom-color: #7BAFD4;  /* 下划线蓝，覆盖原 solid (currentColor) */
+}
+.toc a:hover {
+  color: #5A9CCF;
+}
+
+/* 5. 文章工具栏链接（.article-toolbar a）：默认继承 → 明确蓝 */
+.article-toolbar a {
+  color: #7BAFD4;
+}
+.article-toolbar a:hover,
+.article-toolbar a:focus {
+  color: #5A9CCF;  /* 覆盖原 #222 */
+}
+
+/* 6. 代码/预格式化（pre, code）：边框灰 #757575/#cccccc → 蓝灰调和 */
+pre {
+  border-color: #A0C4E0;  /* 浅蓝灰，覆盖原 #cccccc/#757575 */
+}
+code {
+  border-color: #7BAFD4;  /* 代码内联蓝边，覆盖原 #757575 */
+  background-color: rgba(123, 175, 212, 0.1);  /* 浅蓝背景，提升可见 */
+}
+
+/* 7. 引用块（blockquote）：边框 #ddd → 北卡蓝 */
+blockquote {
+  border-left-color: #7BAFD4;  /* 覆盖原 #ddd */
+  background: #f0f8ff;  /* 极浅蓝背景，覆盖原 #f9f9f9，提升主题感 */
+}
+
+/* 8. 自定义块（.note 等）：背景 #f5f5f5 → 浅蓝变体（可选微调） */
+.note,
+.important,
+.tip,
+.info,
+.caution,
+.warning,
+.reminder {
+  background-color: #f0f8ff;  /* 浅蓝灰，覆盖原 #f5f5f5 */
+}
+
+/* 9. 表格：边框 #666/#ddd → 蓝灰 */
+table {
+  border-top-color: #7BAFD4;  /* 上/下边蓝 */
+  border-bottom-color: #7BAFD4;
+}
+table thead th {
+  border-bottom-color: #A0C4E0;  /* 表头浅蓝，覆盖原 #ddd */
+}
+thead, tfoot, tr:nth-child(even) {
+  background: #f0f8ff;  /* 行背景浅蓝，覆盖原 #eee */
+}
+
+/* 10. 脚注链接：red → 北卡蓝（保持醒目） */
+.body-text.list-text a[href^="#fn:"],
+.body-text.list-text a[href^="#fnref:"] {
+  color: #7BAFD4;  /* 覆盖原 red */
+}
+
+/* 响应式：小屏保持一致（无额外改动，原 @media 已覆盖字体） */
+@media only screen and (max-width: 600px) {
+  /* 如需小屏专属蓝调，可在此添加；否则继承 */
+}
